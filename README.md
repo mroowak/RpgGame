@@ -1,6 +1,7 @@
 # RpgGame
 An RPG-like game with a virtual world—all inside your console.
 This project uses the Cereal library for JSON serialization.
+**Note:** The game is in development, so all ideas and issues are welcome!
 
 ## Compiling
 ### For Linux/Mac 
