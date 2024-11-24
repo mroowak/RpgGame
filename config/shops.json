@@ -1,0 +1,27 @@
+{
+    "shops": [
+        {
+            "key": "basic_shop",
+            "value": {
+                "items": [
+                    {
+                        "key": "small_sword",
+                        "value": -1
+                    },
+                    {
+                        "key": "big_sword",
+                        "value": -1
+                    },
+                    {
+                        "key": "iron",
+                        "value": -1
+                    },
+                    {
+                        "key": "gold",
+                        "value": -1
+                    }
+                ]
+            }
+        }
+    ]
+}

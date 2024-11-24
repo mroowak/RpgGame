@@ -1,0 +1,23 @@
+{
+    "players": [
+        {
+            "key": "player1",
+            "value": {
+                "coins": 10,
+                "stats": {
+                    "hp": 100
+                },
+                "items": [
+                    {
+                        "key": "stick",
+                        "value": 1
+                    },
+                    {
+                        "key": "iron",
+                        "value": 4
+                    }
+                ]
+            }
+        }
+    ]
+}
